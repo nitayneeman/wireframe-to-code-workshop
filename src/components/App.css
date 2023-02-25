@@ -1,0 +1,12 @@
+.App {
+  display: flex; /* Flex is a layout mechanism designed for laying out groups of items in one dimension */
+  flex-direction: column; /* Vertical order for layout */
+  min-height: 100vh; /* Relative to the viewport height (which is the browser window) */
+  background-color: #212121;
+  color: #ffffff;
+}
+
+.Body {
+  display: flex;
+  flex-grow: 1; /* The body will take the remaining space in the layout (in this case, the full width)  */
+}
