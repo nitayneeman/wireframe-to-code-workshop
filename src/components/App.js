@@ -5,14 +5,14 @@ import Header from './Header';
 import Sidebar from './Sidebar';
 
 function App() {
-  const { videos } = data;
+  const { tags, videos } = data;
 
   return (
     <div className='App'>
       <Header />
       <div className='Body'>
         <Sidebar />
-        <Content videos={videos} />
+        <Content tags={tags} videos={videos} />
       </div>
     </div>
   );
