@@ -1,0 +1,47 @@
+{
+  "tags": ["All", "Movies", "Sports", "Gaming", "Academy"],
+  "videos": [
+    {
+      "id": "prAUuubvLOc",
+      "title": "Super Mario Movie - Cat Mario Reveal Trailer",
+      "author": "BeardBear",
+      "tag": "Movies"
+    },
+    {
+      "id": "BGA9Om0tFyY",
+      "title": "Golden State Warriors vs Los Angeles Lakers Full Game Highlights | Feb 23, 2023 | FreeDawkins",
+      "author": "FreeDawkins",
+      "tag": "Sports"
+    },
+    {
+      "id": "Ke90Tje7VS0",
+      "title": "React JS - React Tutorial for Beginners",
+      "author": "Programming with Mosh",
+      "tag": "Academy"
+    },
+    {
+      "id": "ihNZlp7iUHE",
+      "title": "Intro to vectors & scalars | One-dimensional motion | Physics | Khan Academy",
+      "author": "Khan Academy",
+      "tag": "Academy"
+    },
+    {
+      "id": "pGRBNy81Io0",
+      "title": "The Day Lionel Messi & Neymar Jr Taught Football to Pep Guardiola",
+      "author": "BR7 Extra",
+      "tag": "Sports"
+    },
+    {
+      "id": "2SNF4M_v7wc",
+      "title": "The Legend of Zelda: Tears of the Kingdom – Official Trailer #1",
+      "author": "Nintendo of America",
+      "tag": "Gaming"
+    },
+    {
+      "id": "-BLM1naCfME",
+      "title": "Tetris — Official Trailer | Apple TV+",
+      "author": "Apple TV",
+      "tag": "Movies"
+    }
+  ]
+}

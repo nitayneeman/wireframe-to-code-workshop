@@ -1,7 +1,15 @@
 import './Content.css';
 
-function Content() {
-  return <main className='Content'>The videos will be here!</main>;
+function Content(props) {
+  const { videos } = props;
+
+  return (
+    <main className='Content'>
+      {videos.map((video) => (
+        <div key={video.id}>{video.title}</div>
+      ))}
+    </main>
+  );
 }
 
 export default Content;
