@@ -4,3 +4,9 @@
   flex-grow: 1;
   padding: 10px 30px;
 }
+
+.VideoContainer {
+  display: flex;
+  flex-wrap: wrap; /* Allows the items to wrap onto multiple lines */
+  gap: 30px 15px;
+}
